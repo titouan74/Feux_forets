@@ -8,3 +8,4 @@ geopandas
 plotly
 xgboost
 scikit-learn
+imblearn
